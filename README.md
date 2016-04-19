@@ -1,8 +1,8 @@
-# GA Credentials - Front End Level 2 Code Challenge Authoring
+# GA Credentials - FE2 Code Challenge Authoring
 
 You've been commissioned to create 3 Javascript Code Challenges for GA Credentials. There are 3 deliverables:
 
-- **Deliverable 1.** Content Outline.
+- **Deliverable 1.** Brainstorm / Proposal.
 - **Deliverable 2.** Code Challenge Prompts.
 - **Deliverable 3.** Starter and Solution Code.
 
@@ -10,14 +10,14 @@ We've provided for you assets to help with this process, and a detailed step-by-
 
 Here is an exmaple of a very successful past set of Code Challenges, and the level of rigor we expect in code: (*TBD*).
 
-## Deliverable 1: Content Outline
+## Deliverable 1: Proposal
 
 ### Step 1: Receive materials from GA
 
 Github Repo with:
 
 - Codebase
-- Prompt Templates
+- Prompt Template
 
 ### Step 2: Brainstorm Code Challenge Ideas
 
@@ -35,17 +35,11 @@ Some examples of JS Code Challenges:
 - Program a collapsible mobile nav
 - Implement Smooth Scroll
 
-### Step 3: Complete a Content Outline
-
-Follow the steps in the following document:
-
-https://docs.google.com/spreadsheets/d/1hdj1cqOYWAd65w-s7v7oSmzQyzLe0L-Sts-H3Bz35fU/edit?usp=sharing
-
-Share this with your GA contact.
+Brainstorm a few challenges you could add to the codebase and share this with your GA contact.
 
 ### Step 4: GA Reviews, Provides Feedback
 
-GA will review your submission and get back to you with any necessary edits.
+GA will review your submission and suggest a particular 
 
 ## Deliverable 2: Code Challenge Prompts
 
@@ -58,7 +52,7 @@ GA will review your submission and get back to you with any necessary edits.
 
 http://lifehacker.com/the-complete-guide-to-making-animated-gifs-1503276993
 
-Resulting GIF should be max 600px wide. Ensure it is as optimized as possible.
+Resulting GIF should be 600px wide. Ensure it is as optimized as possible.
 
 ### Step 3: Write Prompts
 
@@ -78,13 +72,13 @@ GA will review your submission and get back to you with any necessary edits.
 
 ### Step 1: Branch
 
-Once you have the the code working and the prompts created, create two branches on your repo. One will be for the starting state of the code for Assessment takers. The other will be an exemplar solution. Master will remain your working branch.
+Once you have the the code working and the prompt created, create two branches on your repo. One will be for the starting state of the code for Assessment takers. The other will be an exemplar solution. Master should remain the working branch.
 
 - `master` (Working Branch, including README.md)
 - `codebase` (Initial State)
 - `solution` (Exemplar Solution)
 
-`codebase` and `solution` should not contain gifs, readme files, anything the test-taker should not see.
+`codebase` and `solution` should not contain gifs, readme files, anything the test-taker would not see.
 
 Send a link to your repo to your GA contact.
 
