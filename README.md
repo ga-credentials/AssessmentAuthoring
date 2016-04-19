@@ -86,7 +86,7 @@ Once you have the the code working and the prompts created, create two branches 
 
 `codebase` and `solution` should not contain gifs, readme files, anything the test-taker should not see.
 
-Send a link to your repo to your your GA contact.
+Send a link to your repo to your GA contact.
 
 ### Step 2: GA Reviews, Provides Feedback
 
