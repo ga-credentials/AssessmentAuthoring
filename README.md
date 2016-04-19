@@ -39,7 +39,7 @@ Brainstorm a few challenges you could add to the codebase and share this with yo
 
 ### Step 4: GA Reviews, Provides Feedback
 
-GA will review your submission and suggest a particular 
+GA will review your submission and will choose one for you to complete. 
 
 ## Deliverable 2: Code Challenge Prompts
 
