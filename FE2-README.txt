@@ -68,6 +68,8 @@ When the user _____, you will need to:
 
 The team’s designer has provided you with the following visualization:
 
+![Prompt 3](assets/prompt3.gif)
+
 ### What to Code
 
 (Summarize the functional specs:)
