@@ -2,9 +2,9 @@
 
 You've been commissioned to create 3 Javascript Code Challenges for GA Credentials. There are 3 deliverables:
 
-- *Deliverable 1.* Content Outline.
-- *Deliverable 2.* Code Challenge Prompts.
-- *Deliverable 3.* Starter and Solution Code.
+- _Deliverable 1._ Content Outline.
+- _Deliverable 2._ Code Challenge Prompts.
+- _Deliverable 3._ Starter and Solution Code.
 
 We've provided for you assets to help with this process, and a detailed step-by-step guide below.
 
