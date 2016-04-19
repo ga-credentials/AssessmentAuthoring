@@ -30,10 +30,10 @@ Here is an exmaple of a very successful past codebase, and the level of rigor we
 
 ### Step 3: Choose a Layout Archetype
 
-| Big Hero | Fixed Sidebar | Portfolio | 
-| -------- | ------------- | --------- |
-| ![Big Hero](layouts/big-hero.png) | ![Fixed Sidebar](layouts/fixed-sidebar.png) | ![Portfolio](layouts/portfolio.png) |
-| Can be found in `/big-hero` | Can be found in `/fixed-sidebar` | Can be found in `/portfolio` | 
+| Big Hero | Fixed Sidebar | Portfolio | Long Scroll | 
+| -------- | ------------- | --------- | --------- |
+| ![Big Hero](layouts/big-hero.png) | ![Fixed Sidebar](layouts/fixed-sidebar.png) | ![Portfolio](layouts/portfolio.png) | ![Long Scroll](layouts/long-scroll.png) |
+| Can be found in `/big-hero` | Can be found in `/fixed-sidebar` | Can be found in `/portfolio` | Can be found in `/long-scroll` | 
 
 ### Step 4: Send GA a Proposed Codebase Outline
 
