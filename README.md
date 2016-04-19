@@ -44,7 +44,9 @@ https://docs.google.com/spreadsheets/d/1hdj1cqOYWAd65w-s7v7oSmzQyzLe0L-Sts-H3Bz3
 Share this with your GA contact.
 
 ### Step 4: GA Reviews, Provides Feedback
- 
+
+GA will review your submission and get back to you with any necessary edits.
+
 ## Deliverable 2: Code Challenge Prompts
 
 ### Step 1: Build All the Things!
@@ -70,9 +72,11 @@ Replace README.md with this new, completed prompt. Send a link to your repo to y
 
 ### Step 4: GA Reviews, Provides Feedback
 
+GA will review your submission and get back to you with any necessary edits.
+
 ## Deliverable 3: Starter and Solution Code
 
-### Step 8: Branch
+### Step 1: Branch
 
 Once you have the the code working and the prompts created, create two branches on your repo. One will be for the starting state of the code for Assessment takers. The other will be an exemplar solution. Master will remain your working branch.
 
@@ -84,4 +88,6 @@ Once you have the the code working and the prompts created, create two branches 
 
 Send a link to your repo to your your GA contact.
 
-### Step 9: GA Reviews, Provides Feedback
+### Step 2: GA Reviews, Provides Feedback
+
+GA will review your submission and get back to you with any necessary edits.
