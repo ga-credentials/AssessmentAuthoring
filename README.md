@@ -82,7 +82,7 @@ Once you have the the code working and the prompts created, create two branches 
 
 - `master` (Working Branch, including README.md)
 - `codebase` (Initial State)
-- `solution`
+- `solution` (Exemplar Solution)
 
 `codebase` and `solution` should not contain gifs, readme files, anything the test-taker should not see.
 
